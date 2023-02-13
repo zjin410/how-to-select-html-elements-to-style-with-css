@@ -29,3 +29,7 @@ body {
   ul strong {
     color: dodgerblue;
   }
+
+  ol strong {
+    color: green;
+  }

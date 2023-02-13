@@ -17,3 +17,7 @@ body {
   strong {
     color: red;
   }
+
+  p strong {
+    color: coral;
+  }

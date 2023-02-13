@@ -1,10 +1,18 @@
   body {
     font-family: sans-serif;
-    }
+  }
 
   h2,
   h3 {
     font-weight: normal;
+  }
+
+  h2 {
+    color: maroon;
+  }
+  
+  h3 {
+    color: navy
   }
 
   em {
